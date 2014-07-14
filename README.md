@@ -18,11 +18,17 @@ To install this Lience, you just have to follow this simple instructions.
 
 First be sure that you have install python3 and pip3 on your computer. 
 
-Then just run : 
+Setup the dependencies: 
 
 `pip3 -r requirements.txt`
 
+Setup the application:
+
 `python3 setup.py install`
+
+Run the application:
+
+`python3 run.py`
 
 You are ready to run Lience.  
 
