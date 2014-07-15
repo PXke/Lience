@@ -1,7 +1,6 @@
 
 from pymongo import MongoClient
 
-
 def connect(address=None):
     if address:
         client = MongoClient(address)
